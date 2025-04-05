@@ -12,7 +12,7 @@
 - 💬 Ask me about **JavaScript, React, Angular, Node.js, MongoDB**
 - 📫 Reach me at **hrishikeshthorat9850@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hrishithorat/)
-- 📄 My resume will be added here soon — stay tuned!
+- 📄 Resume : https://shorturl.at/UEQTi
 
 ---
 
